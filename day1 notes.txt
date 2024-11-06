@@ -1,2 +1,8 @@
-day1 notes:
-There are no notes to be uploaded for day1
+day1 notes:04-11-2024 Monday
+
+Git commands:
+git status  # 
+git add .
+git commit -m "relavent msg"
+git push origin main
+
