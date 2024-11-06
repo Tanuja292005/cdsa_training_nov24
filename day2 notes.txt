@@ -1,4 +1,4 @@
-day2 notes update:
+day2 notes:05-11-22024 Tuesday
 
 Data types:
 1.char size-1 byte
